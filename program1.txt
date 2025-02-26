@@ -1,0 +1,3 @@
+repository: git stores your source code and its development history in a local repository 
+
+branching: you can branch existing source 
